@@ -21,7 +21,7 @@ The source code for this project can be found at the repository for this project
 
 ## Usage
 
-This project is not deployed live online.
+This project is not deployed live online. Click [here](https://drive.google.com/file/d/1a9FJIGl25rdizX-0gWdwv8_QxtHWu7x_/view) to see a video walkthrough of the program functionality.
 
 ## License
 
